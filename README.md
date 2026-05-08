@@ -28,11 +28,11 @@ Visit and rate extension on [Azure Marketplace](https://marketplace.visualstudio
 
 VS Code dark color theme:
 
-![screenshot](https://raw.githubusercontent.com/mbacou/vs-code-ant-theme/refs/heads/main/resources/screenshot-dark.png)
+![screenshot](https://raw.githubusercontent.com/mbacou/vscode-ant-theme/refs/heads/main/resources/screenshot-dark.png
 
 VS Code light color theme:
 
-![screenshot](https://raw.githubusercontent.com/mbacou/vs-code-ant-theme/refs/heads/main/resources/screenshot-light.png)
+![screenshot](https://raw.githubusercontent.com/mbacou/vscode-ant-theme/refs/heads/main/resources/screenshot-light.png)
 
 Matching Linux KDE color scheme:
 
