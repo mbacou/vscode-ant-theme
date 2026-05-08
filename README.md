@@ -1,8 +1,18 @@
-# Ant Theme (dark / light)
+# Ant Theme (dark / light variants)
 
 A color theme for Visual Code and derivatives, like Positron. This theme was generated using the [VS Code template](https://github.com/mjswensen/themer/tree/main/.vscode) for [Themer](https://github.com/themerdev/themer).
 
 Colors are derived from the **Ant-Dark** color palette, with gradients of cyan and turquoise and sensible text contrast. This IDE theme is inspired by the original **Ant-Dark** [GTK and KDE themes](https://www.pling.com/p/1464332/) and by my own [Ant-Dark (green) variant for KDE](https://www.pling.com/p/1980663/).
+
+## Installation
+
+Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
+
+```
+ext install mbacou.ant-dark-theme
+```
+
+Visit and rate extension on [Azure Marketplace](https://marketplace.visualstudio.com/items?itemName=mbacou.ant-dark-theme).
 
 ## Colors in Palette
 
