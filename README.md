@@ -2,7 +2,7 @@
 
 A color theme for Visual Code and derivatives, like Positron. This theme was generated using the [VS Code template](https://github.com/mjswensen/themer/tree/main/.vscode) for [Themer](https://github.com/themerdev/themer).
 
-Colors are derived from the **Ant-Dark** color palette, with gradients of cyan and turquoise and sensible text contrast. This IDE theme is inspired by the original **Ant-Dark** [GTK and KDE themes](https://www.pling.com/p/1464332/) and by my own [Ant-Dark (green) variant for KDE](https://www.pling.com/p/1980663/).
+Colors are derived from **Ant-Dark** color palette, with gradients of cyan and turquoise and sensible text contrast. This IDE theme is inspired by the original **Ant-Dark** [GTK and KDE themes](https://www.pling.com/p/1464332/) and by my own [Ant-Dark (green) variant for KDE](https://www.pling.com/p/1980663/).
 
 ## Installation
 
