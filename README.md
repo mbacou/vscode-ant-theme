@@ -28,7 +28,7 @@ Visit and rate extension on [Azure Marketplace](https://marketplace.visualstudio
 
 VS Code dark color theme:
 
-![screenshot-dark](https://raw.githubusercontent.com/mbacou/vscode-ant-theme/refs/heads/main/resources/screenshot-dark.png
+![screenshot-dark](https://raw.githubusercontent.com/mbacou/vscode-ant-theme/refs/heads/main/resources/screenshot-dark.png)
 
 VS Code light color theme:
 
