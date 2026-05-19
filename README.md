@@ -36,4 +36,4 @@ VS Code light color theme:
 
 Matching Linux KDE color scheme:
 
-![screenshot-kde](https://raw.githubusercontent.com/mbacou/vs-code-ant-theme/refs/heads/main/resources/screenshot-kde.png)
+![screenshot-kde](https://raw.githubusercontent.com/mbacou/vscode-ant-theme/refs/heads/main/resources/screenshot-kde.png)
